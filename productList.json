@@ -1,0 +1,173 @@
+[
+  {
+    "Name": "Sweat Pants - Signature Kollektion",
+    "Tags": [
+      "sweat",
+      "pants",
+      "signature",
+      "kollektion"
+    ],
+    "Url": "/products/sweat-pants-signature-kollektion",
+    "Preis": "€45,00",
+    "Sonderpreis": "",
+    "Ausverkauft": false,
+    "SaleText": ""
+  },
+  {
+    "Name": "Hoodie - Signature Kollektion - SKULL",
+    "Tags": [
+      "hoodie",
+      "signature",
+      "kollektion",
+      "skull"
+    ],
+    "Url": "/products/hoodie-signature-kollektion-skull",
+    "Preis": "€45,00",
+    "Sonderpreis": "",
+    "Ausverkauft": false,
+    "SaleText": ""
+  },
+  {
+    "Name": "Zip-Hoodie - KESS Kollektion",
+    "Tags": [
+      "zip-hoodie",
+      "kess",
+      "kollektion"
+    ],
+    "Url": "/products/zip-hoodie-signature-kollektion-kess",
+    "Preis": "€45,00",
+    "Sonderpreis": "",
+    "Ausverkauft": false,
+    "SaleText": ""
+  },
+  {
+    "Name": "Hoodie - GRONKH Kollektion (Black\u0026White)",
+    "Tags": [
+      "hoodie",
+      "gronkh",
+      "kollektion",
+      "black\u0026white"
+    ],
+    "Url": "/products/hoodie-gronkh-kollektion-black-white",
+    "Preis": "€45,00",
+    "Sonderpreis": "",
+    "Ausverkauft": false,
+    "SaleText": ""
+  },
+  {
+    "Name": "Hoodie - GRONKH Kollektion - Anniversary",
+    "Tags": [
+      "hoodie",
+      "gronkh",
+      "kollektion",
+      "anniversary"
+    ],
+    "Url": "/products/hoodie-gronkh-kollektion-anniversary",
+    "Preis": "€45,00",
+    "Sonderpreis": "",
+    "Ausverkauft": false,
+    "SaleText": ""
+  },
+  {
+    "Name": "T-Shirt - Lurch Stranding (Herren)",
+    "Tags": [
+      "t-shirt",
+      "lurch",
+      "stranding",
+      "herren"
+    ],
+    "Url": "/products/t-shirt-lurch-stranding-herren",
+    "Preis": "€25,00",
+    "Sonderpreis": "",
+    "Ausverkauft": false,
+    "SaleText": ""
+  },
+  {
+    "Name": "T-Shirt - GRONKH Collection (Herren) black\u0026white",
+    "Tags": [
+      "t-shirt",
+      "gronkh",
+      "collection",
+      "herren",
+      "black\u0026white"
+    ],
+    "Url": "/products/t-shirt-gronkh-collection-black-white-herren",
+    "Preis": "€25,00",
+    "Sonderpreis": "€20,00",
+    "Ausverkauft": false,
+    "SaleText": "Jetzt sparen €5,00"
+  },
+  {
+    "Name": "T-Shirt - GRONKH Collection (Herren) grey",
+    "Tags": [
+      "t-shirt",
+      "gronkh",
+      "collection",
+      "herren",
+      "grey"
+    ],
+    "Url": "/products/t-shirt-gronkh-collection-grey",
+    "Preis": "€25,00",
+    "Sonderpreis": "€20,00",
+    "Ausverkauft": false,
+    "SaleText": "Jetzt sparen €5,00"
+  },
+  {
+    "Name": "Campus Shorts - GRONKH Collection - Goldrot",
+    "Tags": [
+      "campus",
+      "shorts",
+      "gronkh",
+      "collection",
+      "goldrot"
+    ],
+    "Url": "/products/campus-shorts-gronkh-collection-limited-g",
+    "Preis": "€40,00",
+    "Sonderpreis": "€25,00",
+    "Ausverkauft": true,
+    "SaleText": ""
+  },
+  {
+    "Name": "T-Shirt - Lurch of Us (Herren)",
+    "Tags": [
+      "t-shirt",
+      "lurch",
+      "of",
+      "us",
+      "herren"
+    ],
+    "Url": "/products/t-shirt-lurch-of-us-herren",
+    "Preis": "€25,00",
+    "Sonderpreis": "",
+    "Ausverkauft": false,
+    "SaleText": ""
+  },
+  {
+    "Name": "Campus Shorts - Signature Collection",
+    "Tags": [
+      "campus",
+      "shorts",
+      "signature",
+      "collection"
+    ],
+    "Url": "/products/campus-shorts-signature-collection",
+    "Preis": "€38,00",
+    "Sonderpreis": "€25,00",
+    "Ausverkauft": true,
+    "SaleText": ""
+  },
+  {
+    "Name": "Campus Shorts - KESS Collection",
+    "Tags": [
+      "campus",
+      "shorts",
+      "kess",
+      "collection"
+    ],
+    "Url": "/products/campus-shorts-signature-collection-kess-1",
+    "Preis": "€38,00",
+    "Sonderpreis": "€25,00",
+    "Ausverkauft": false,
+    "SaleText": "Jetzt sparen €13,00"
+  }
+]

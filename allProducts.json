@@ -1,0 +1,692 @@
+{
+  "Campus Shorts - GRONKH Collection - Goldrot": {
+    "Name": "Campus Shorts - GRONKH Collection - Goldrot",
+    "Collection": [
+      "damen",
+      "pants",
+      "jogger",
+      "shorts",
+      "herren",
+      "super",
+      "sale",
+      "die",
+      "woche",
+      "zum",
+      "sparen",
+      "gronkh"
+    ],
+    "Url": "/products/campus-shorts-gronkh-collection-limited-g",
+    "Preis": "€40,00",
+    "Sonderpreis": "€25,00",
+    "Ausverkauft": true,
+    "SaleText": ""
+  },
+  "Campus Shorts - KESS Collection": {
+    "Name": "Campus Shorts - KESS Collection",
+    "Collection": [
+      "kess",
+      "edition",
+      "damen",
+      "pants",
+      "jogger",
+      "shorts",
+      "reduziert",
+      "1",
+      "herren"
+    ],
+    "Url": "/products/campus-shorts-signature-collection-kess-1",
+    "Preis": "€38,00",
+    "Sonderpreis": "€25,00",
+    "Ausverkauft": false,
+    "SaleText": "Jetzt sparen €13,00"
+  },
+  "Campus Shorts - Signature Collection": {
+    "Name": "Campus Shorts - Signature Collection",
+    "Collection": [
+      "damen",
+      "pants",
+      "jogger",
+      "shorts",
+      "herren",
+      "super",
+      "sale",
+      "die",
+      "woche",
+      "zum",
+      "sparen"
+    ],
+    "Url": "/products/campus-shorts-signature-collection",
+    "Preis": "€38,00",
+    "Sonderpreis": "€25,00",
+    "Ausverkauft": true,
+    "SaleText": ""
+  },
+  "Geschenkgutschein": {
+    "Name": "Geschenkgutschein",
+    "Collection": [
+      "luuut"
+    ],
+    "Url": "/products/geschenkgutschein",
+    "Preis": "€1,00",
+    "Sonderpreis": "",
+    "Ausverkauft": false,
+    "SaleText": ""
+  },
+  "Hoodie - GRONKH Kollektion (Black\u0026White)": {
+    "Name": "Hoodie - GRONKH Kollektion (Black\u0026White)",
+    "Collection": [
+      "damen",
+      "hoodies",
+      "herren",
+      "bestseller",
+      "kleiner",
+      "beitrag",
+      "zur",
+      "nachhaltigkeit",
+      "bio",
+      "baumwolle",
+      "peta",
+      "blck",
+      "edition",
+      "black",
+      "friday",
+      "gronkh"
+    ],
+    "Url": "/products/hoodie-gronkh-kollektion-black-white",
+    "Preis": "€45,00",
+    "Sonderpreis": "",
+    "Ausverkauft": false,
+    "SaleText": ""
+  },
+  "Hoodie - GRONKH Kollektion - Anniversary": {
+    "Name": "Hoodie - GRONKH Kollektion - Anniversary",
+    "Collection": [
+      "damen",
+      "hoodies",
+      "herren",
+      "kollektion2",
+      "0",
+      "bestseller",
+      "kleiner",
+      "beitrag",
+      "zur",
+      "nachhaltigkeit",
+      "bio",
+      "baumwolle",
+      "peta",
+      "gronkh"
+    ],
+    "Url": "/products/hoodie-gronkh-kollektion-anniversary",
+    "Preis": "€45,00",
+    "Sonderpreis": "",
+    "Ausverkauft": false,
+    "SaleText": ""
+  },
+  "Hoodie - Lurch Stranding": {
+    "Name": "Hoodie - Lurch Stranding",
+    "Collection": [
+      "lurch",
+      "1",
+      "hoodies"
+    ],
+    "Url": "/products/hoodie-lurch-stranding",
+    "Preis": "€40,00",
+    "Sonderpreis": "",
+    "Ausverkauft": false,
+    "SaleText": ""
+  },
+  "Hoodie - Lurch of Us": {
+    "Name": "Hoodie - Lurch of Us",
+    "Collection": [
+      "lurch",
+      "1",
+      "hoodies"
+    ],
+    "Url": "/products/hoodie-lurch-of-us",
+    "Preis": "€40,00",
+    "Sonderpreis": "",
+    "Ausverkauft": false,
+    "SaleText": ""
+  },
+  "Hoodie - Pandorya Collection - Blutglyphe": {
+    "Name": "Hoodie - Pandorya Collection - Blutglyphe",
+    "Collection": [
+      "pandorya",
+      "hoodie",
+      "bestseller",
+      "pan",
+      "pullis",
+      "kollektion"
+    ],
+    "Url": "/products/hoodie-pandorya-collection-blutglyphe",
+    "Preis": "€45,00",
+    "Sonderpreis": "",
+    "Ausverkauft": false,
+    "SaleText": ""
+  },
+  "Hoodie - Pandorya Collection - Glyphe": {
+    "Name": "Hoodie - Pandorya Collection - Glyphe",
+    "Collection": [
+      "pandorya",
+      "hoodie",
+      "pan",
+      "pullis",
+      "kollektion"
+    ],
+    "Url": "/products/hoodie-pandorya-collection-glyphe",
+    "Preis": "€49,00",
+    "Sonderpreis": "",
+    "Ausverkauft": false,
+    "SaleText": ""
+  },
+  "Hoodie - Signature Kids Kollektion - SPRNG (Pink)": {
+    "Name": "Hoodie - Signature Kids Kollektion - SPRNG (Pink)",
+    "Collection": [
+      "kids"
+    ],
+    "Url": "/products/hoodie-signature-kids-kollektion-sprng-pink",
+    "Preis": "€25,00",
+    "Sonderpreis": "€20,00",
+    "Ausverkauft": false,
+    "SaleText": "Jetzt sparen €5,00"
+  },
+  "Hoodie - Signature Kids Kollektion - SPRNG (Yellow)": {
+    "Name": "Hoodie - Signature Kids Kollektion - SPRNG (Yellow)",
+    "Collection": [
+      "kids"
+    ],
+    "Url": "/products/hoodie-signature-kids-kollektion-sprng-yellow",
+    "Preis": "€25,00",
+    "Sonderpreis": "€20,00",
+    "Ausverkauft": false,
+    "SaleText": "Jetzt sparen €5,00"
+  },
+  "Hoodie - Signature Kollektion - SKULL": {
+    "Name": "Hoodie - Signature Kollektion - SKULL",
+    "Collection": [
+      "damen",
+      "bestseller",
+      "kleiner",
+      "beitrag",
+      "zur",
+      "nachhaltigkeit",
+      "bio",
+      "baumwolle",
+      "peta",
+      "herren"
+    ],
+    "Url": "/products/hoodie-signature-kollektion-skull",
+    "Preis": "€45,00",
+    "Sonderpreis": "",
+    "Ausverkauft": false,
+    "SaleText": ""
+  },
+  "Hoodie - Signature Kollektion - SPRNG (black-coloured)": {
+    "Name": "Hoodie - Signature Kollektion - SPRNG (black-coloured)",
+    "Collection": [
+      "damen",
+      "hoodies",
+      "herren",
+      "gronkh"
+    ],
+    "Url": "/products/hoodie-signature-kollektion-spring-1",
+    "Preis": "€45,00",
+    "Sonderpreis": "",
+    "Ausverkauft": false,
+    "SaleText": ""
+  },
+  "Mausmatte - Life in the Woods": {
+    "Name": "Mausmatte - Life in the Woods",
+    "Collection": [
+      "luuut",
+      "gronkh"
+    ],
+    "Url": "/products/mausmatte-life-in-the-woods",
+    "Preis": "€30,00",
+    "Sonderpreis": "",
+    "Ausverkauft": true,
+    "SaleText": ""
+  },
+  "Sweat Pants - Signature Kollektion": {
+    "Name": "Sweat Pants - Signature Kollektion",
+    "Collection": [
+      "damen",
+      "pants",
+      "bestseller",
+      "jogger",
+      "shorts",
+      "nachmittag",
+      "herren"
+    ],
+    "Url": "/products/sweat-pants-signature-kollektion",
+    "Preis": "€45,00",
+    "Sonderpreis": "",
+    "Ausverkauft": false,
+    "SaleText": ""
+  },
+  "Sweatshirt - GRONKH Kollektion (Black\u0026White)": {
+    "Name": "Sweatshirt - GRONKH Kollektion (Black\u0026White)",
+    "Collection": [
+      "kleiner",
+      "beitrag",
+      "zur",
+      "nachhaltigkeit",
+      "bio",
+      "baumwolle",
+      "peta",
+      "pullis",
+      "ohne",
+      "kapuze",
+      "sweatshirt",
+      "blck",
+      "edition",
+      "black",
+      "friday",
+      "gronkh"
+    ],
+    "Url": "/products/sweatshirt-gronkh-kollektion-black-white",
+    "Preis": "€45,00",
+    "Sonderpreis": "",
+    "Ausverkauft": false,
+    "SaleText": ""
+  },
+  "Sweatshirt - Pandorya Collection - Glyphe": {
+    "Name": "Sweatshirt - Pandorya Collection - Glyphe",
+    "Collection": [
+      "bestseller",
+      "pandorya",
+      "pulli",
+      "ohne",
+      "kapuze",
+      "sweatshirt",
+      "pan",
+      "pullis",
+      "kollektion"
+    ],
+    "Url": "/products/sweatshirt-pandorya-collection-glyphe",
+    "Preis": "€45,00",
+    "Sonderpreis": "",
+    "Ausverkauft": false,
+    "SaleText": ""
+  },
+  "Sweatshirt - Pandorya Collection - Guten Tag": {
+    "Name": "Sweatshirt - Pandorya Collection - Guten Tag",
+    "Collection": [
+      "pandorya",
+      "pulli",
+      "ohne",
+      "kapuze",
+      "sweatshirt",
+      "pan",
+      "pullis",
+      "kollektion"
+    ],
+    "Url": "/products/sweatshirt-pandorya-collection-guten-tag",
+    "Preis": "€45,00",
+    "Sonderpreis": "",
+    "Ausverkauft": false,
+    "SaleText": ""
+  },
+  "Sweatshirt - Signature Kollektion - JBF": {
+    "Name": "Sweatshirt - Signature Kollektion - JBF",
+    "Collection": [
+      "kleiner",
+      "beitrag",
+      "zur",
+      "nachhaltigkeit",
+      "bio",
+      "baumwolle",
+      "peta",
+      "pullis",
+      "ohne",
+      "kapuze",
+      "sweatshirt",
+      "gronkh"
+    ],
+    "Url": "/products/sweatshirt-signature-kollektion-jbf",
+    "Preis": "€45,00",
+    "Sonderpreis": "",
+    "Ausverkauft": false,
+    "SaleText": ""
+  },
+  "Sweatshirt - Signature Kollektion - SKULL": {
+    "Name": "Sweatshirt - Signature Kollektion - SKULL",
+    "Collection": [
+      "kleiner",
+      "beitrag",
+      "zur",
+      "nachhaltigkeit",
+      "bio",
+      "baumwolle",
+      "peta",
+      "pullis",
+      "ohne",
+      "kapuze",
+      "sweatshirt",
+      "gronkh"
+    ],
+    "Url": "/products/sweatshirt-signature-kollektion-skull",
+    "Preis": "€45,00",
+    "Sonderpreis": "",
+    "Ausverkauft": false,
+    "SaleText": ""
+  },
+  "Sweatshirt - Signature Kollektion - SPRNG (black-coloured)": {
+    "Name": "Sweatshirt - Signature Kollektion - SPRNG (black-coloured)",
+    "Collection": [
+      "damen",
+      "herren"
+    ],
+    "Url": "/products/sweatshirt-signature-kollektion-sprng-black-coloured",
+    "Preis": "€45,00",
+    "Sonderpreis": "",
+    "Ausverkauft": false,
+    "SaleText": ""
+  },
+  "T-Shirt - Erste Jahre (yellow edition)": {
+    "Name": "T-Shirt - Erste Jahre (yellow edition)",
+    "Collection": [
+      "kollektion2",
+      "0",
+      "gronkh"
+    ],
+    "Url": "/products/t-shirt-erste-jahre-yellow-edition",
+    "Preis": "€25,00",
+    "Sonderpreis": "€20,00",
+    "Ausverkauft": false,
+    "SaleText": "Jetzt sparen €5,00"
+  },
+  "T-Shirt - GRONKH Collection (Herren) black\u0026white": {
+    "Name": "T-Shirt - GRONKH Collection (Herren) black\u0026white",
+    "Collection": [
+      "sale",
+      "all",
+      "herren",
+      "blck",
+      "edition",
+      "black",
+      "friday",
+      "gronkh"
+    ],
+    "Url": "/products/t-shirt-gronkh-collection-black-white-herren",
+    "Preis": "€25,00",
+    "Sonderpreis": "€20,00",
+    "Ausverkauft": false,
+    "SaleText": "Jetzt sparen €5,00"
+  },
+  "T-Shirt - GRONKH Collection (Herren) grey": {
+    "Name": "T-Shirt - GRONKH Collection (Herren) grey",
+    "Collection": [
+      "herren",
+      "gronkh"
+    ],
+    "Url": "/products/t-shirt-gronkh-collection-grey",
+    "Preis": "€25,00",
+    "Sonderpreis": "€20,00",
+    "Ausverkauft": false,
+    "SaleText": "Jetzt sparen €5,00"
+  },
+  "T-Shirt - GRONKH Collection - Anniversary": {
+    "Name": "T-Shirt - GRONKH Collection - Anniversary",
+    "Collection": [
+      "kollektion2",
+      "0",
+      "kleiner",
+      "beitrag",
+      "zur",
+      "nachhaltigkeit",
+      "bio",
+      "baumwolle",
+      "peta",
+      "gronkh"
+    ],
+    "Url": "/products/t-shirt-gronkh-collection-anniversary-herren",
+    "Preis": "€25,00",
+    "Sonderpreis": "",
+    "Ausverkauft": false,
+    "SaleText": ""
+  },
+  "T-Shirt - Lurch Stranding (Damen)": {
+    "Name": "T-Shirt - Lurch Stranding (Damen)",
+    "Collection": [
+      "lurch",
+      "t",
+      "shirts",
+      "hoodies",
+      "damen",
+      "2"
+    ],
+    "Url": "/products/t-shirt-lurch-stranding-damen",
+    "Preis": "€25,00",
+    "Sonderpreis": "",
+    "Ausverkauft": true,
+    "SaleText": ""
+  },
+  "T-Shirt - Lurch Stranding (Herren)": {
+    "Name": "T-Shirt - Lurch Stranding (Herren)",
+    "Collection": [
+      "lurch",
+      "t",
+      "shirts",
+      "hoodies",
+      "herren"
+    ],
+    "Url": "/products/t-shirt-lurch-stranding-herren",
+    "Preis": "€25,00",
+    "Sonderpreis": "",
+    "Ausverkauft": false,
+    "SaleText": ""
+  },
+  "T-Shirt - Lurch of Us (Damen)": {
+    "Name": "T-Shirt - Lurch of Us (Damen)",
+    "Collection": [
+      "lurch",
+      "t",
+      "shirts",
+      "hoodies",
+      "damen",
+      "2"
+    ],
+    "Url": "/products/t-shirt-lurch-of-us-damen",
+    "Preis": "€25,00",
+    "Sonderpreis": "",
+    "Ausverkauft": false,
+    "SaleText": ""
+  },
+  "T-Shirt - Lurch of Us (Herren)": {
+    "Name": "T-Shirt - Lurch of Us (Herren)",
+    "Collection": [
+      "lurch",
+      "t",
+      "shirts",
+      "hoodies",
+      "herren"
+    ],
+    "Url": "/products/t-shirt-lurch-of-us-herren",
+    "Preis": "€25,00",
+    "Sonderpreis": "",
+    "Ausverkauft": false,
+    "SaleText": ""
+  },
+  "T-Shirt - Pandorya Collection - Blutglyphe": {
+    "Name": "T-Shirt - Pandorya Collection - Blutglyphe",
+    "Collection": [
+      "pandorya",
+      "t",
+      "shirt",
+      "shirts",
+      "kollektion"
+    ],
+    "Url": "/products/t-shirt-pandorya-collection-blutglyphe",
+    "Preis": "€25,00",
+    "Sonderpreis": "",
+    "Ausverkauft": false,
+    "SaleText": ""
+  },
+  "T-Shirt - Pandorya Collection - Glyphe (black)": {
+    "Name": "T-Shirt - Pandorya Collection - Glyphe (black)",
+    "Collection": [
+      "pandorya",
+      "t",
+      "shirt",
+      "vegan",
+      "shirts",
+      "kollektion"
+    ],
+    "Url": "/products/t-shirt-pandorya-collection-glyphe-schwarz",
+    "Preis": "€25,00",
+    "Sonderpreis": "",
+    "Ausverkauft": false,
+    "SaleText": ""
+  },
+  "T-Shirt - Pandorya Collection - Glyphe (white)": {
+    "Name": "T-Shirt - Pandorya Collection - Glyphe (white)",
+    "Collection": [
+      "pandorya",
+      "t",
+      "shirt",
+      "vegan",
+      "shirts",
+      "kollektion"
+    ],
+    "Url": "/products/t-shirt-pandorya-collection-glyphe-weiss",
+    "Preis": "€25,00",
+    "Sonderpreis": "",
+    "Ausverkauft": false,
+    "SaleText": ""
+  },
+  "T-Shirt - Pandorya Collection - Guten Tag": {
+    "Name": "T-Shirt - Pandorya Collection - Guten Tag",
+    "Collection": [
+      "pandorya",
+      "t",
+      "shirt",
+      "shirts",
+      "kollektion"
+    ],
+    "Url": "/products/t-shirt-pandorya-collection-guten-tag",
+    "Preis": "€25,00",
+    "Sonderpreis": "",
+    "Ausverkauft": false,
+    "SaleText": ""
+  },
+  "T-Shirt - Signature Kollektion - JBF": {
+    "Name": "T-Shirt - Signature Kollektion - JBF",
+    "Collection": [
+      "bestseller",
+      "jogger",
+      "nachmittag",
+      "gronkh"
+    ],
+    "Url": "/products/t-shirt-signature-kollektion-sbs-herren",
+    "Preis": "€25,00",
+    "Sonderpreis": "",
+    "Ausverkauft": false,
+    "SaleText": ""
+  },
+  "T-Shirt - Signature Kollektion - SKULL": {
+    "Name": "T-Shirt - Signature Kollektion - SKULL",
+    "Collection": [
+      "kleiner",
+      "beitrag",
+      "zur",
+      "nachhaltigkeit",
+      "bio",
+      "baumwolle",
+      "peta",
+      "gronkh"
+    ],
+    "Url": "/products/t-shirt-signature-kollektion-punisher",
+    "Preis": "€25,00",
+    "Sonderpreis": "",
+    "Ausverkauft": false,
+    "SaleText": ""
+  },
+  "Vegan T-Shirt - GRONKH Collection - DarkNight": {
+    "Name": "Vegan T-Shirt - GRONKH Collection - DarkNight",
+    "Collection": [
+      "vegan",
+      "t",
+      "shirts",
+      "gronkh"
+    ],
+    "Url": "/products/vegan-t-shirt-gronkh-collection-darknight",
+    "Preis": "€28,00",
+    "Sonderpreis": "€20,00",
+    "Ausverkauft": true,
+    "SaleText": ""
+  },
+  "Vegan T-Shirt - GRONKH Collection - SkyBlue": {
+    "Name": "Vegan T-Shirt - GRONKH Collection - SkyBlue",
+    "Collection": [
+      "vegan",
+      "t",
+      "shirts",
+      "gronkh"
+    ],
+    "Url": "/products/vegan-t-shirt-gronkh-collection-skyblue",
+    "Preis": "€28,00",
+    "Sonderpreis": "€20,00",
+    "Ausverkauft": false,
+    "SaleText": "Jetzt sparen €8,00"
+  },
+  "Vegan T-Shirt - GRONKH Collection - WhiteWalker": {
+    "Name": "Vegan T-Shirt - GRONKH Collection - WhiteWalker",
+    "Collection": [
+      "vegan",
+      "t",
+      "shirts",
+      "gronkh"
+    ],
+    "Url": "/products/vegan-t-shirt-gronkh-collection-whitewalker",
+    "Preis": "€28,00",
+    "Sonderpreis": "€20,00",
+    "Ausverkauft": false,
+    "SaleText": "Jetzt sparen €8,00"
+  },
+  "Vegan T-Shirt - GRONKH Collection - YellowSub": {
+    "Name": "Vegan T-Shirt - GRONKH Collection - YellowSub",
+    "Collection": [
+      "vegan",
+      "t",
+      "shirts",
+      "gronkh"
+    ],
+    "Url": "/products/bio-t-shirt-gronkh-collection-yellow",
+    "Preis": "€28,00",
+    "Sonderpreis": "€20,00",
+    "Ausverkauft": false,
+    "SaleText": "Jetzt sparen €8,00"
+  },
+  "Zip-Hoodie - KESS Kollektion": {
+    "Name": "Zip-Hoodie - KESS Kollektion",
+    "Collection": [
+      "kess",
+      "edition",
+      "damen",
+      "hoodies",
+      "herren",
+      "zip",
+      "gronkh"
+    ],
+    "Url": "/products/zip-hoodie-signature-kollektion-kess",
+    "Preis": "€45,00",
+    "Sonderpreis": "",
+    "Ausverkauft": false,
+    "SaleText": ""
+  },
+  "Zip-Hoodie - Lurch Stranding": {
+    "Name": "Zip-Hoodie - Lurch Stranding",
+    "Collection": [
+      "lurch",
+      "zip",
+      "hoodies",
+      "1"
+    ],
+    "Url": "/products/zip-hoodie-lurch-stranding",
+    "Preis": "€49,00",
+    "Sonderpreis": "",
+    "Ausverkauft": false,
+    "SaleText": ""
+  }
+}
